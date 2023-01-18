@@ -1,0 +1,14 @@
+.Tilt-inner {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.brain {
+    height: 150px;
+    width: 150px;
+}
